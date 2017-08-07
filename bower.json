@@ -1,0 +1,17 @@
+{
+  "name": "the-joy-of-index-cards",
+  "homepage": "https://github.com/ThirstyHead/the-joy-of-index-cards",
+  "authors": [
+    "Scott Davis <scott@thirstyhead.com>"
+  ],
+  "description": "PRESENTATION: The Joy of Index Cards",
+  "main": "index.html",
+  "license": "cc-by-4.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
